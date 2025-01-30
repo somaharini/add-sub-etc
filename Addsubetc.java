@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JavaProgram{
+public class Addsubetc{
     public static void main(String args[]){
     int first, second, add, subtract, multiply;
     float divide;
